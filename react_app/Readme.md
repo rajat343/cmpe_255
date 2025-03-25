@@ -10,7 +10,7 @@ A server would start on port 5000.
 5. Run command: npm install
 6. Start client with command: npm run dev
 
-A react app would start on port 5174.
+A react app would start on port 5173.
 
 Need to wait for a few seconds for data to get loaded.
 After that we can change filters.
